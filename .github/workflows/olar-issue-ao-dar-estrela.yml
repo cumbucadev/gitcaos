@@ -1,0 +1,66 @@
+name: Criar Issue de Boas Vindas ao Adicionar Estrela
+
+on:
+  watch:
+    types: [started]
+  workflow_dispatch:
+      inputs:
+        username:
+          description: 'Nome de usuário para personalizar a issue'
+          required: true
+          default: 'seu_nome_de_usuário'
+
+permissions:
+  issues: write
+
+jobs:
+  create_issue:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+      - name: Set up GitHub user
+        id: get_user
+        run: |
+          echo "USERNAME=$(jq -r .sender.login $GITHUB_EVENT_PATH)" >> $GITHUB_ENV
+
+      - name: Criar um arquivo de issue personalizado
+        id: create_file
+        run: |
+          USERNAME=${{ env.USERNAME }}
+          TEMPLATE_PATH="../gitcaos/.github/workflows/olar.md"
+          ISSUE_FILE="../gitcaos/.github/workflows/issue_temp.md"
+
+          echo "Username is: $USERNAME"
+
+          # Verifica se a variável USERNAME está definida
+          if [ -z "$USERNAME" ]; then
+            echo "USERNAME não está definido."
+            exit 1
+          fi
+
+          # Remove o arquivo temporário se ele já existir
+          if [ -f "$ISSUE_FILE" ]; then
+            echo "Removendo arquivo existente: $ISSUE_FILE"
+            rm $ISSUE_FILE
+          fi
+
+          # Substitui @seu_nome_de_usuário pelo nome do usuário no template
+          sed "s/seu_nome_de_usuário/${USERNAME}/g" $TEMPLATE_PATH > $ISSUE_FILE
+
+          # Verifica se o arquivo de issue_temp.md foi criado
+          if [ -f "$ISSUE_FILE" ]; then
+            echo "$ISSUE_FILE criado com sucesso."
+          else
+            echo "$ISSUE_FILE não foi criado."
+            exit 1
+          fi
+
+      - name: Criando uma issue de boas-vindas
+        uses: peter-evans/create-issue-from-file@v4
+        with:
+          title: "Criar arquivo: `${{ env.USERNAME }}.txt`"
+          content-filepath: ../gitcaos/.github/workflows/issue_temp.md
+          labels: 'praticando-na-solidão'
+          assignees: ${{ env.USERNAME }}  # Use a variável de ambiente aqui
