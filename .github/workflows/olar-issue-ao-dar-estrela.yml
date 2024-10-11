@@ -63,4 +63,4 @@ jobs:
           title: "Criar arquivo: `${{ env.USERNAME }}.txt`"
           content-filepath: ../gitcaos/.github/workflows/issue_temp.md
           labels: 'praticando-na-solidão'
-          assignees: ${{ env.USERNAME }}  # Use a variável de ambiente aqui
+          assignees: ${{ env.USERNAME }}
