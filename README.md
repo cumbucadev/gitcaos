@@ -15,7 +15,7 @@ Ao participar, você aprende Git e GitHub na prática, enquanto vivencia as din�
 Quando você acessa um repositório open source, além dos arquivos do projeto que você já esperaria, ele geralmente inclui alguns arquivos importantes que estão na "pasta principal" do repositório
 (também chamada de pasta raíz). Esses arquivos são essenciais para entender e contribuir com o projeto, ajudando a manter a organização do código e orientando quem deseja participar.
 
-### README.md
+### README.md 📖
 
 Serve como uma introdução ao projeto. Ele explica o que o projeto faz, como configurá-lo localmente, e traz instruções de uso. É o primeiro lugar onde você deve olhar para entender o propósito do repositório e como ele funciona.
 
@@ -26,7 +26,7 @@ O README.md é o ponto de partida de qualquer repositório. Ele fornece uma vis�
 - Exemplos de uso e funcionalidades principais.
 - Links úteis, como documentação ou referências externas.
 
-### CONTRIBUTING.md
+### CONTRIBUTING.md 🔨
 
 Explica como você pode contribuir com o projeto. Cada repositório pode ter suas próprias regras e processos para submissão de contribuições (como pull requests), formatação de commits, ou até ferramentas específicas que devem ser usadas. Ler este arquivo é crucial para garantir que sua contribuição siga os padrões esperados pelo projeto.
 
@@ -44,7 +44,7 @@ Enquanto o README.md é voltado para quem quer entender o projeto e começar a u
 o CONTRIBUTING.md é focado em quem deseja contribuir, explicando os passos necessários
 para isso.
 
-### LICENSE.md
+### LICENSE.md 💼
 
 Esse é um dos arquivos mais importantes em qualquer projeto open source. Ele define sob quais condições você pode usar, modificar e distribuir o código. A licença esclarece os direitos e responsabilidades dos colaboradores e usuários. Algumas das licenças open source mais comuns incluem:
 
