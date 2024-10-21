@@ -4,3 +4,5 @@
 - O jogo do Tigrinho me deu uma mansão
 - O jogo do Tigrinho me deu um dia com o Gustavo Lima
 - O jogo do Tigrinho me deu um chocolate
+- O jogo do Tigrinho me deu prejuízo
+
