@@ -13,19 +13,18 @@ Agora é a hora de começarmos a contribiuir!
   - [4.1 Clonar? Que? 🤔](#41-clonar-que-)
   - [4.2 Por que Clonar seu Fork? 🧐](#42-por-que-clonar-seu-fork-)
   - [4.3 Instruções para Clonar Seu Fork 📖](#43-instruções-para-clonar-seu-fork-)
-- [5. Dê uma Estrela no Repositório ⭐](#5-dê-uma-estrela-no-repositório-)
-- [6. Encontre uma Issue para Trabalhar 🔍](#6-encontre-uma-issue-para-trabalhar-)
-- [7. Crie um Novo Branch 🎋](#7-crie-um-novo-branch-)
-- [8. Faça suas Alterações 🔨](#8-faça-suas-alterações-)
-- [9. Adicione suas Alterações ➕](#9-adicione-suas-alterações-)
-- [10. Faça um Commit de suas Alterações ✅](#10-faça-um-commit-de-suas-alterações-)
-  - [10.1 Commit? Que? 🤔](#101-commit-que-)
-  - [10.3 Faça um Commit 🔨](#103-faça-um-commit-)
-- [11. Faça um Push de suas Alterações 🤞](#11-faça-um-push-de-suas-alterações-)
-  - [11.1 Push? Que? 🤔](#111-push-que-)
-  - [11.2 Faça um Push 🔨](#112-faça-um-push-)
-  - [11.3 Por que Fazer um Push? ❓](#113-por-que-fazer-um-push-)
-- [12. Crie um Pull Request (PR) no GitHub 💬](#12-crie-um-pull-request-pr-no-github-)
+- [5. Encontre uma Issue para Trabalhar 🔍](#5-encontre-uma-issue-para-trabalhar-)
+- [6. Crie um Novo Branch 🎋](#6-crie-um-novo-branch-)
+- [7. Faça suas Alterações 🔨](#7-faça-suas-alterações-)
+- [8. Adicione suas Alterações ➕](#8-adicione-suas-alterações-)
+- [9. Faça um Commit de suas Alterações ✅](#9-faça-um-commit-de-suas-alterações-)
+  - [9.1 Commit? Que? 🤔](#91-commit-que-)
+  - [9.2 Faça um Commit 🔨](#92-faça-um-commit-)
+- [10. Faça um Push de suas Alterações 🤞](#10-faça-um-push-de-suas-alterações-)
+  - [10.1 Push? Que? 🤔](#101-push-que-)
+  - [10.2 Faça um Push 🔨](#102-faça-um-push-)
+  - [10.3 Por que Fazer um Push? ❓](#103-por-que-fazer-um-push-)
+- [11. Crie um Pull Request (PR) no GitHub 💬](#11-crie-um-pull-request-pr-no-github-)
 - [O Quê Acontece Agora? 🙋](#o-quê-acontece-agora-)
 - [Próximos Passos 👀](#próximos-passos-)
 
@@ -159,14 +158,7 @@ Para mais informações sobre como clonar repositórios no GitHub, você pode co
 
 - <https://docs.github.com/pt/repositories/creating-and-managing-repositories/cloning-a-repository>
 
-## 5. Dê uma Estrela no Repositório ⭐
-
-Antes de começar a trabalhar na sua primeira tarefa, é uma boa ideia dar uma estrela no repositório do GitHub. Dar uma estrela não apenas demonstra seu apoio ao projeto, mas também cria uma notificação para você sempre que houver atualizações ou atividades. Veja como fazer isso:
-
-1. Acesse o Repositório: Navegue até a página principal do projeto no GitHub: <https://github.com/cumbucadev/gitcaos>
-1. Clique no Botão de Estrela: Procure o botão Estrela localizado no canto superior direito da página, logo abaixo do nome do repositório. Clique nele!
-
-## 6. Encontre uma Issue para Trabalhar 🔍
+## 5. Encontre uma Issue para Trabalhar 🔍
 
 Agora é hora de encontrar uma issue (tarefa ou problema) para trabalhar. Esse é um passo importante e comum no mundo do open source, onde colaboramos para melhorar projetos e aprender juntos. No GitCaos 🔥, usamos as issues para organizar as atividades do projeto. Isso pode incluir corrigir bugs, adicionar novas funcionalidades e melhorar a documentação.
 
@@ -174,17 +166,13 @@ Siga estas etapas simples para encontrar sua primeira issue:
 
 1. Acesse o Repositório: Navegue até a página principal do projeto no GitHub: <https://github.com/cumbucadev/gitcaos>
 1. Na parte superior da página do repositório principal, você verá várias abas. Clique na aba chamada Issues. Aqui, você encontrará uma lista de tarefas disponíveis que precisam de ajuda.
-1. Procure pela issue específica: Agora, você precisa encontrar uma issue com o título: Criar arquivo: `seu-username.txt`. Essa tarefa foi criada especialmente para você, e é uma ótima oportunidade para praticar.
+1. Procure pela issue específica: Agora, você precisa encontrar uma issue com o título: Tarefa 1: Criar arquivo: `seu-username.txt`. Essa tarefa foi criada especialmente para você, e é uma ótima oportunidade para praticar.
 1. Verifique se a issue já está designada para alguém: Olhe ao lado do título da issue para ver se ela já tem alguém designado (chamado de assignee). Se o seu nome já estiver lá, ótimo! Isso significa que você está pronto para trabalhar na tarefa. Se não estiver, você pode pedir para ser designado. Para isso, deixe um comentário na issue dizendo algo como: "Oi, eu gostaria de trabalhar nessa tarefa! Você pode me designar?". Isso garante que nunca mais de uma pessoa trabalhe na mesma issue, evitando conflitos e confusões no desenvolvimento.
 1. Leia atentamente as instruções: Antes de começar a trabalhar, é fundamental ler todas as instruções que estão na issue. Isso vai garantir que você entenda o que é solicitado e que siga as diretrizes corretamente. Preste atenção a detalhes como formato de arquivo, informações que devem ser incluídas e qualquer outro requisito.
 
-Importante: Quando você deu uma estrela no repositório, isso criou automaticamente uma issue para você. Essa é uma forma didática de ajudar novos colaboradores a encontrar uma tarefa prática e se familiarizar com o processo. Normalmente, você encontrará outras tarefas disponíveis que também precisarão de ajuda.
+Importante: Quando você fez o fork do repositório, isso criou automaticamente uma issue para você. Essa é uma forma didática de ajudar novos colaboradores a encontrar uma tarefa prática e se familiarizar com o processo. Normalmente, você encontrará outras tarefas disponíveis que também precisarão de ajuda.
 
-Se você tiver alguma dúvida sobre a issue ou como proceder, não hesite em perguntar nos comentários da própria issua. A comunidade está sempre disposta a ajudar e você não está sozinho nesse processo!
-
-Aqui está a versão revisada das seções 7 a 11, com as alterações solicitadas para o nome da branch e uma explicação mais clara sobre como encontrar o número da issue:
-
-## 7. Crie um Novo Branch 🎋
+## 6. Crie um Novo Branch 🎋
 
 Antes de começar a trabalhar nas suas alterações, você precisa criar um novo branch. Um branch é uma linha de desenvolvimento independente, onde você pode fazer mudanças sem afetar o código que está na branch principal (geralmente chamada de `main` ou `master`).
 
@@ -227,7 +215,7 @@ Antes de começar a trabalhar nas suas alterações, você precisa criar um novo
    nothing to commit, working tree clean
    ```
 
-## 8. Faça suas Alterações 🔨
+## 7. Faça suas Alterações 🔨
 
 Agora que você está no seu novo branch, é hora de fazer as alterações necessárias no código ou na documentação. **As alterações devem ser feitas seguindo as instruções que estão especificadas na issue que você está resolvendo**.
 
@@ -236,7 +224,7 @@ Agora que você está no seu novo branch, é hora de fazer as alterações neces
 
 Após realizar as modificações, você pode continuar para o próximo passo.
 
-## 9. Adicione suas Alterações ➕
+## 8. Adicione suas Alterações ➕
 
 Depois de fazer as alterações, você precisa adicioná-las ao seu branch. Isso informa ao Git quais alterações você deseja incluir no próximo commit.
 
@@ -274,13 +262,11 @@ Depois de fazer as alterações, você precisa adicioná-las ao seu branch. Isso
    new file:   seu-username.txt
    ```
 
-Aqui está a seção revisada, explicando melhor o que é um commit e sua importância no processo de versionamento:
-
-## 10. Faça um Commit de suas Alterações ✅
+## 9. Faça um Commit de suas Alterações ✅
 
 Agora é hora de salvar suas alterações no histórico do Git. Para isso, você deve "commitar" suas alterações.
 
-### 10.1 Commit? Que? 🤔
+### 9.1 Commit? Que? 🤔
 
 Um **commit** é como uma fotografia do seu código em um determinado momento. Quando você faz um commit, você está criando um registro das alterações que fez, que pode incluir novos arquivos, modificações em arquivos existentes ou a exclusão de arquivos. Cada commit tem uma mensagem que descreve o que foi alterado, permitindo que outros colaboradores entendam rapidamente as mudanças que você fez e o motivo delas.
 
@@ -290,7 +276,7 @@ Os commits são fundamentais para o versionamento, pois permitem que você:
 - **Entenda a evolução do projeto:** Você pode ver como o código mudou ao longo do tempo, facilitando a identificação de quando e por que alterações específicas foram feitas.
 - **Colabore efetivamente:** Outros desenvolvedores podem revisar suas mudanças, fazer sugestões e integrar suas contribuições ao projeto.
 
-### 10.3 Faça um Commit 🔨
+### 9.2 Faça um Commit 🔨
 
 1. **Realize o commit** com o seguinte comando:
    (Substitua `seu-username` pelo seu nome de usuário do GitHub. Essa mensagem ajuda outros a entenderem rapidamente o que foi alterado.)
@@ -301,19 +287,15 @@ Os commits são fundamentais para o versionamento, pois permitem que você:
 
 Depois de realizar o commit, suas alterações estão salvas no histórico do Git, prontas para serem enviadas para o seu repositório no GitHub.
 
-Claro! Vamos simplificar a seção, removendo a explicação sobre branches e mantendo o foco no processo de push. Aqui está a versão revisada:
-
-## 11. Faça um Push de suas Alterações 🤞
+## 10. Faça um Push de suas Alterações 🤞
 
 Depois de realizar o **commit** das suas alterações, é hora de enviá-las para o repositório remoto no GitHub. Esse processo é chamado de **push**.
 
-### 11.1 Push? Que? 🤔
+### 10.1 Push? Que? 🤔
 
 O **push** é o ato de enviar suas alterações do seu repositório local (no seu computador) para o repositório remoto (no GitHub). Pense no seu repositório local como um caderno onde você faz anotações e, quando você faz um push, é como se estivesse enviando essas anotações para um mural público onde todos podem ver.
 
-### 11.2 Faça um Push 🔨
-
-Após fazer suas alterações e realizar o commit, siga estes passos para fazer o push:
+### 10.2 Faça um Push 🔨
 
 1. **Abra o terminal** (ou o prompt de comando).
 2. **Navegue até o diretório do seu projeto** se você ainda não estiver lá:
@@ -334,7 +316,7 @@ Aqui está o que cada parte desse comando significa:
 - `origin`: Refere-se ao seu repositório remoto (o GitHub).
 - `issue-12`: É o nome do branch onde suas alterações estão.
 
-### 11.3 Por que Fazer um Push? ❓
+### 10.3 Por que Fazer um Push? ❓
 
 - **Colaboração**: Permite que outros membros da equipe vejam e revisem suas alterações. Isso é crucial em projetos em grupo.
 
@@ -354,7 +336,7 @@ Para mais informações sobre push, você pode consultar:
 
 - <https://docs.github.com/pt/get-started/using-git/pushing-changes-to-a-remote-repository>
 
-## 12. Crie um Pull Request (PR) no GitHub 💬
+## 11. Crie um Pull Request (PR) no GitHub 💬
 
 Após fazer o commit, você precisa criar um Pull Request (PR) para que suas alterações possam ser revisadas e eventualmente mescladas à branch principal. **Lembre-se de que você deve fazer isso no seu fork do repositório GitCaos.**
 
