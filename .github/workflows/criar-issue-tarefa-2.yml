@@ -1,4 +1,4 @@
-name: Criar Issue de Boas Vindas ao Adicionar Estrela
+name: Criar issue tarefa 2
 
 on:
   watch:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
       inputs:
         username:
-          description: 'Nome de usuário para personalizar a issue'
+          description: 'Nome de usuário no GitHub para personalizar a issue'
           required: true
           default: 'seu_nome_de_usuário'
 
@@ -29,7 +29,7 @@ jobs:
         id: create_file
         run: |
           USERNAME=${{ env.USERNAME }}
-          TEMPLATE_PATH="../gitcaos/.github/workflows/olar.md"
+          TEMPLATE_PATH="../gitcaos/.github/workflows/template_tarefa2.md"
           ISSUE_FILE="../gitcaos/.github/workflows/issue_temp.md"
 
           echo "Username is: $USERNAME"
@@ -60,7 +60,7 @@ jobs:
       - name: Criando uma issue de boas-vindas
         uses: peter-evans/create-issue-from-file@v4
         with:
-          title: "Criar arquivo: `${{ env.USERNAME }}.txt`"
+          title: "Tarefa 2: O Jogo do Tigrinho me deu (${{ env.USERNAME }})"
           content-filepath: ../gitcaos/.github/workflows/issue_temp.md
-          labels: 'praticando-na-solidão'
+          labels: 'jogo-do-tigrinho, tarefa-2'
           assignees: ${{ env.USERNAME }}
