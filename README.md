@@ -58,6 +58,13 @@ Entender a licença do projeto é crucial para saber como você pode interagir c
 
 Se você quiser aprender mais sobre licenças e como escolher a certa para o seu projeto, visite <https://choosealicense.com>, um site que explica de forma simples as diferenças entre as licenças e ajuda você a selecionar a mais adequada.
 
+### CODE_OF_CONDUCT.md 📖
+
+Define um ambiente de respeito e inclusão, onde todos são tratados com empatia e profissionalismo. Comportamentos ofensivos, assédio ou falta de respeito são inaceitáveis e sujeitam-se a medidas corretivas. A liderança é responsável pela aplicação e manutenção de um espaço acolhedor e seguro para todos.
+
+Isso oferece uma visão geral do propósito e das diretrizes de comportamento, mantendo o tom direto e informativo, como as demais seções.
+
+
 ## Por onde eu começo? 🚦
 
 Agora que você já leu o README.md e entendeu o propósito do projeto, o próximo passo é se preparar para contribuir! No caso de projetos open source, após a leitura inicial, você deve sempre verificar o arquivo CONTRIBUTING.md.
