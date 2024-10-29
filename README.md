@@ -67,7 +67,7 @@ Isso oferece uma visão geral do propósito e das diretrizes de comportamento, m
 
 ## Por onde eu começo? 🚦
 
-Agora que você já leu o README.md e entendeu o propósito do projeto, o próximo passo é se preparar para contribuir! No caso de projetos open source, após a leitura inicial, você deve sempre verificar o arquivo CONTRIBUTING.md.
+Agora que você já leu o README.md, já leu o código de conduta e sabe as diretrizes para interagir na comunidade e entendeu o propósito do projeto, o próximo passo é se preparar para contribuir! No caso de projetos open source, após a leitura inicial, você deve sempre verificar o arquivo CONTRIBUTING.md.
 
 > Então, a dica é: leia o CONTRIBUTING.md antes de começar a fazer mudanças!
 
