@@ -60,9 +60,9 @@ Se você quiser aprender mais sobre licenças e como escolher a certa para o seu
 
 ### CODE_OF_CONDUCT.md 📖
 
-Define um ambiente de respeito e inclusão, onde todos são tratados com empatia e profissionalismo. Comportamentos ofensivos, assédio ou falta de respeito são inaceitáveis e sujeitam-se a medidas corretivas. A liderança é responsável pela aplicação e manutenção de um espaço acolhedor e seguro para todos.
+O arquivo CODE_OF_CONDUCT.md estabelece as diretrizes de comportamento esperado para todos os participantes da nossa comunidade. Ele busca garantir um ambiente inclusivo, seguro e acolhedor, promovendo o respeito mútuo e a colaboração.
 
-Isso oferece uma visão geral do propósito e das diretrizes de comportamento, mantendo o tom direto e informativo, como as demais seções.
+Essas diretrizes são essenciais para manter um espaço em que todos possam contribuir e aprender, independentemente de suas origens ou experiências. Esperamos que todos sigam essas normas e ajudem a fortalecer uma cultura de respeito e apoio dentro da comunidade.
 
 
 ## Por onde eu começo? 🚦
