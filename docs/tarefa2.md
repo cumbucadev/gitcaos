@@ -1,8 +1,20 @@
 # Tarefa 2
 
+1. [Dê uma Estrela no Repositório ⭐](#1-dê-uma-estrela-no-repositório-)
+2. [Encontre uma Issue para Trabalhar 🔍](#2-encontre-uma-issue-para-trabalhar-)
+3. [Volte para o Branch Main 🎋](#3-volte-para-o-branch-main-)
+4. [Atualize o Branch Main 🎋](#4-atualize-o-branch-main-)
+5. [Crie um Novo Branch 🎋](#5-crie-um-novo-branch-)
+6. [Faça suas Alterações 🔨](#6-faça-suas-alterações-)
+7. [Adicione suas Alterações ➕](#7-adicione-suas-alterações-)
+8. [Faça um Commit de suas Alterações ✅](#8-faça-um-commit-de-suas-alterações-)
+9. [Faça um Push de suas Alterações 🤞](#9-faça-um-push-de-suas-alterações-)
+10. [Crie um Pull Request (PR) no GitHub 💬](#10-crie-um-pull-request-pr-no-github-)
+
 ## 1. Dê uma Estrela no Repositório ⭐
 
-Antes de começar a trabalhar na sua segunda tarefa, é uma boa ideia dar uma estrela no repositório do GitHub. Dar uma estrela não apenas demonstra seu apoio ao projeto, mas também cria uma notificação para você sempre que houver atualizações ou atividades. Veja como fazer isso:
+Antes de começar a trabalhar na sua segunda tarefa, é necessário dar uma estrela no repositório do GitHub. 
+Dar uma estrela não apenas demonstra seu apoio ao projeto, mas também cria uma notificação para você sempre que houver atualizações ou atividades. Veja como fazer isso:
 
 1. Acesse o Repositório: Navegue até a página principal do projeto no GitHub: <https://github.com/cumbucadev/gitcaos>
 1. Clique no Botão de Estrela: Procure o botão Estrela localizado no canto superior direito da página, logo abaixo do nome do repositório. Clique nele!
@@ -14,10 +26,10 @@ Agora é hora de encontrar uma issue (tarefa ou problema) para trabalhar. Esse �
 Siga estas etapas simples para encontrar sua primeira issue:
 
 1. Acesse o Repositório: Navegue até a página principal do projeto no GitHub: <https://github.com/cumbucadev/gitcaos>
-1. Na parte superior da página do repositório principal, você verá várias abas. Clique na aba chamada Issues. Aqui, você encontrará uma lista de tarefas disponíveis que precisam de ajuda.
-1. Procure pela issue específica: Agora, você precisa encontrar uma issue com o título: # Tarefa 2: O Jogo do Tigrinho me deu (seu-username). Essa tarefa foi criada especialmente para você, e é uma ótima oportunidade para praticar.
-1. Verifique se a issue já está designada para alguém: Olhe ao lado do título da issue para ver se ela já tem alguém designado (chamado de assignee). Se o seu nome já estiver lá, ótimo! Isso significa que você está pronto para trabalhar na tarefa. Se não estiver, você pode pedir para ser designado. Para isso, deixe um comentário na issue dizendo algo como: "Oi, eu gostaria de trabalhar nessa tarefa! Você pode me designar?". Isso garante que nunca mais de uma pessoa trabalhe na mesma issue, evitando conflitos e confusões no desenvolvimento.
-1. Leia atentamente as instruções: Antes de começar a trabalhar, é fundamental ler todas as instruções que estão na issue. Isso vai garantir que você entenda o que é solicitado e que siga as diretrizes corretamente. Preste atenção a detalhes como formato de arquivo, informações que devem ser incluídas e qualquer outro requisito.
+2. Na parte superior da página do repositório principal, você verá várias abas. Clique na aba chamada Issues. Aqui, você encontrará uma lista de tarefas disponíveis que precisam de ajuda. 
+3. Procure pela issue específica: Agora, você precisa encontrar uma issue com o título: # Tarefa 2: O Jogo do Tigrinho me deu (seu-username). Essa tarefa foi criada especialmente para você, e é uma ótima oportunidade para praticar. 
+4. Verifique se a issue já está designada para alguém: Olhe ao lado do título da issue para ver se ela já tem alguém designado (chamado de assignee). Se o seu nome já estiver lá, ótimo! Isso significa que você está pronto para trabalhar na tarefa. Se não estiver, você pode pedir para ser designado. Para isso, deixe um comentário na issue dizendo algo como: "Oi, eu gostaria de trabalhar nessa tarefa! Você pode me designar?". Isso garante que nunca mais de uma pessoa trabalhe na mesma issue, evitando conflitos e confusões no desenvolvimento. 
+5. Leia atentamente as instruções: Antes de começar a trabalhar, é fundamental ler todas as instruções que estão na issue. Isso vai garantir que você entenda o que é solicitado e que siga as diretrizes corretamente. Preste atenção a detalhes como formato de arquivo, informações que devem ser incluídas e qualquer outro requisito.
 
 Importante: Quando você deu uma estrela no repositório, isso criou automaticamente uma issue para você. Essa é uma forma didática de ajudar novos colaboradores a encontrar uma tarefa prática e se familiarizar com o processo. Normalmente, você encontrará outras tarefas disponíveis que também precisarão de ajuda.
 
@@ -161,15 +173,15 @@ Após fazer o commit, você precisa criar um Pull Request (PR) para que suas alt
 2. **Localize o branch que você acabou de criar**. Você verá uma opção para criar um Pull Request.
 3. **Clique em "Compare & pull request"**.
 4. **Preencha o título e a descrição do PR**:
-   - **Título**: "Tarefa 1: seu-username.txt" (substitua `seu-username` pelo seu nome de usuário).
+   - **Título**: "Tarefa 2: Tarefa2: Jogo do tigrinho - seu-username" (substitua `seu-username` pelo seu nome de usuário).
    - **Descrição**:
-     (Substitua `12` pelo número da issue que você está resolvendo, que pode ser encontrado no final da URL da issue.)
+     (Substitua `15` pelo número da issue que você está resolvendo, que pode ser encontrado no final da URL da issue.)
 
      ```bash
-     Tarefa 1:
-     - Arquivo seu-username.txt adicionado
+     Tarefa 2:
+     - Tarefa 2: Tarefa2: Jogo do tigrinho - seu-username adicionado
 
-     Closes #12
+     Closes #15
      ```
 
 5. **Clique em "Create pull request" para finalizar.**
