@@ -64,7 +64,6 @@ O arquivo CODE_OF_CONDUCT.md estabelece as diretrizes de comportamento esperado 
 
 Essas diretrizes são essenciais para manter um espaço em que todos possam contribuir e aprender, independentemente de suas origens ou experiências. Esperamos que todos sigam essas normas e ajudem a fortalecer uma cultura de respeito e apoio dentro da comunidade.
 
-
 ## Por onde eu começo? 🚦
 
 Agora que você já leu o README.md, já leu o código de conduta e sabe as diretrizes para interagir na comunidade e entendeu o propósito do projeto, o próximo passo é se preparar para contribuir! No caso de projetos open source, após a leitura inicial, você deve sempre verificar o arquivo CONTRIBUTING.md.
