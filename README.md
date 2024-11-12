@@ -72,4 +72,12 @@ Agora que você já leu o README.md, já leu o código de conduta e sabe as dire
 
 Seja em um projeto simples como o gitcaos, ou em qualquer outro repositório open source, seguir esse processo é o caminho para fazer suas primeiras contribuições com sucesso.
 
-Próximo passo: ler o arquivo [CONTRIBUTING.md](CONTRIBUTING.md) 🤓
+Próximo passo: ler o arquivo CONTRIBUTING.md 🤓
+
+## ❤️ Quem já Contribuiu
+
+<a href="https://github.com/cumbucadev/gitcaos/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=cumbucadev/gitcaos" />
+</a></br></br>
+
+_Made with [contrib.rocks](https://contrib.rocks)._
