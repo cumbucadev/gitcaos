@@ -1,4 +1,4 @@
-# Tarefa 2
+# Tarefa 2: O Jogo do Tigrinho me Deu
 
 1. [Dê uma Estrela no Repositório ⭐](#1-dê-uma-estrela-no-repositório-)
 2. [Encontre uma Issue para Trabalhar 🔍](#2-encontre-uma-issue-para-trabalhar-)
