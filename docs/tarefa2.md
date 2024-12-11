@@ -153,7 +153,7 @@ Depois de realizar o commit, suas alterações estão salvas no histórico do Gi
 Depois de realizar o **commit** das suas alterações, é hora de enviá-las para o repositório remoto no GitHub. Esse processo é chamado de **push**.
 
 1. **Abra o terminal** (ou o prompt de comando).
-2. **Navegue até o diretório do seu projeto** se você ainda não estiver lá:
+1. **Navegue até o diretório do seu projeto** se você ainda não estiver lá:
 
    ```bash
    cd caminho/para/seu/projeto
@@ -170,16 +170,16 @@ Depois de realizar o **commit** das suas alterações, é hora de enviá-las par
 Após fazer o commit, você precisa criar um Pull Request (PR) para que suas alterações possam ser revisadas e eventualmente mescladas à branch principal. **Lembre-se de que você deve fazer isso no seu fork do repositório GitCaos.**
 
 1. **Acesse o GitHub** e vá até o seu repositório forkado do GitCaos.
-2. **Localize o branch que você acabou de criar**. Você verá uma opção para criar um Pull Request.
-3. **Clique em "Compare & pull request"**.
-4. **Preencha o título e a descrição do PR**:
+1. **Localize o branch que você acabou de criar**. Você verá uma opção para criar um Pull Request.
+1. **Clique em "Compare & pull request"**.
+1. **Preencha o título e a descrição do PR**:
    - **Título**: "Tarefa 2: Tarefa2: Jogo do tigrinho - seu-username" (substitua `seu-username` pelo seu nome de usuário).
    - **Descrição**:
      (Substitua `15` pelo número da issue que você está resolvendo, que pode ser encontrado no final da URL da issue.)
 
      ```bash
      Tarefa 2:
-     - Tarefa 2: Tarefa2: Jogo do tigrinho - seu-username adicionado
+     - Tarefa 2: Jogo do tigrinho - seu-username adicionado
 
      Closes #15
      ```
