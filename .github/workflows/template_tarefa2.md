@@ -27,5 +27,3 @@ Parabéns por concluir a Tarefa 1! 🎉 Agora vamos editar um arquivo que muitas
 - Após adicionar sua linha, não se esqueça de **salvar** o arquivo. Isso é crucial para que as alterações sejam mantidas.
 
 Caso precise de ajuda, não hesite em perguntar nos comentários! A comunidade está aqui para ajudar uns aos outros.
-
-
