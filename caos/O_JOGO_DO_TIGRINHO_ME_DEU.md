@@ -5,4 +5,6 @@
 - O jogo do Tigrinho me deu um dia com o Gustavo Lima
 - O jogo do Tigrinho me deu um chocolate
 - O jogo do Tigrinho me deu prejuízo
+- O jogo do Tigrinho me deu dor de cabeça
+- O jogo do Tigrinho me deu um trabalho como back-end
 
