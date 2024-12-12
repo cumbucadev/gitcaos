@@ -80,4 +80,4 @@ Próximo passo: ler o arquivo CONTRIBUTING.md 🤓
   <img src="https://contrib.rocks/image?repo=cumbucadev/gitcaos" />
 </a></br></br>
 
-_Made with [contrib.rocks](https://contrib.rocks)._
+_Made with [contrib.rocks](https://contrib.rocks).
