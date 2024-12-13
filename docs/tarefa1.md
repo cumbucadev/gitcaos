@@ -257,9 +257,10 @@ Depois de fazer as alterações, você precisa adicioná-las ao seu branch. Isso
    O resultado agora mostrará que o arquivo foi adicionado:
 
    ```bash
-   On branch 12
-   Changes to be committed:
-   new file:   seu-username.txt
+    On branch 12
+ Untracked files:
+   (use "git add <file>..." to include in what will be committed)
+         caos/@seu-username/
    ```
 
 ## 9. Faça um Commit de suas Alterações ✅
@@ -304,17 +305,17 @@ O **push** é o ato de enviar suas alterações do seu repositório local (no se
    cd caminho/para/seu/projeto
    ```
 
-3. **Execute o comando de push** para o branch específico (substitua `issue-12` pelo nome do branch que você criou):
+3. **Execute o comando de push** para o branch específico (substitua `12` pelo nome do branch que você criou):
 
    ```bash
-   git push origin issue-12
+   git push origin 12
    ```
 
 Aqui está o que cada parte desse comando significa:
 
 - `git push`: Este é o comando que diz ao Git que você deseja enviar suas alterações.
 - `origin`: Refere-se ao seu repositório remoto (o GitHub).
-- `issue-12`: É o nome do branch onde suas alterações estão.
+- `12`: É o nome do branch onde suas alterações estão.
 
 ### 10.3 Por que Fazer um Push? ❓
 
@@ -324,7 +325,7 @@ Aqui está o que cada parte desse comando significa:
 
 - **Histórico**: O push mantém um registro da evolução do projeto, facilitando a consulta e a compreensão das mudanças ao longo do tempo.
 
-Após executar o comando de push, suas alterações estarão disponíveis no GitHub no branch `issue-12`. Outros colaboradores poderão revisar suas alterações e, eventualmente, integrar suas contribuições ao código principal.
+Após executar o comando de push, suas alterações estarão disponíveis no GitHub no branch `12`. Outros colaboradores poderão revisar suas alterações e, eventualmente, integrar suas contribuições ao código principal.
 
 Resumo:
 
