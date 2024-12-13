@@ -118,7 +118,7 @@ Depois de fazer as alterações, você precisa adicioná-las ao seu branch. Isso
 1. **Adicione suas alterações** usando o comando:
 
    ```bash
-   git add O_JOGO_DO_TIGRINHO_ME_DEU.md
+   git add caos/O_JOGO_DO_TIGRINHO_ME_DEU.md
    ```
 
 1. **Verifique novamente o estado do repositório** com:
