@@ -245,7 +245,7 @@ Depois de fazer as alterações, você precisa adicioná-las ao seu branch. Isso
 2. **Adicione suas alterações** usando o comando:
 
    ```bash
-   git add .
+   git add <arquivo_1> <arquivo_2>
    ```
 
 3. **Verifique novamente o estado do repositório** com:
