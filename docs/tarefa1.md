@@ -258,9 +258,9 @@ Depois de fazer as alterações, você precisa adicioná-las ao seu branch. Isso
 
    ```bash
     On branch 12
- Untracked files:
-   (use "git add <file>..." to include in what will be committed)
-         caos/@seu-username/
+    Untracked files:
+      (use "git add <file>..." to include in what will be committed)
+            caos/@seu-username/
    ```
 
 ## 9. Faça um Commit de suas Alterações ✅
