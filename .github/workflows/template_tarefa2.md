@@ -8,7 +8,7 @@ Parabéns por concluir a Tarefa 1! 🎉 Agora vamos editar um arquivo que muitas
 
 ## Passo 2: Adicionar sua contribuição
 
-- Abra o arquivo `O_JOGO_DO_TIGRINHO_ME_DEU.md` em um editor de texto de sua preferência (como Notepad, VSCode, ou outro).
+- Abra o arquivo `caos/O_JOGO_DO_TIGRINHO_ME_DEU.md` em um editor de texto de sua preferência (como Notepad, VSCode, ou outro).
 
 - Adicione uma nova linha no final do arquivo com a seguinte frase:
 
