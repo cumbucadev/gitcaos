@@ -7,4 +7,5 @@
 - O jogo do Tigrinho me deu prejuízo
 - O jogo do Tigrinho me deu dor de cabeça
 - O jogo do Tigrinho me deu um trabalho como back-end
+- O jogo do Tigrinho me deu altas aventuras
 
