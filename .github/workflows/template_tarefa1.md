@@ -41,8 +41,6 @@ Adeus
 
 Exemplo: Você pode ver como deve ficar o seu arquivo seguindo este exemplo: [camilamaia.txt](https://github.com/cumbucadev/gitcaos/blob/main/caos/%40camilamaia/camilamaia.txt).
 
-**Nota importante:** Assim que concluir essa tarefa, crie um Pull Request (PR) separado para ela no GitHub. Não combine outras tarefas no mesmo PR.
-
 Caso precise de ajuda, não hesite em perguntar nos comentários! A comunidade está aqui para ajudar uns aos outros.
 
 Bora codar! 🚀
