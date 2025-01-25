@@ -25,7 +25,5 @@ Parabéns por concluir a Tarefa 1! 🎉 Agora vamos editar um arquivo que muitas
 ## Passo 3: Salve as alterações
 
 - Após adicionar sua linha, não se esqueça de **salvar** o arquivo. Isso é crucial para que as alterações sejam mantidas.
-- 
-**Nota importante:** Assim que concluir essa tarefa, crie um Pull Request (PR) separado para ela no GitHub. Não combine outras tarefas no mesmo PR.
 
 Caso precise de ajuda, não hesite em perguntar nos comentários! A comunidade está aqui para ajudar uns aos outros.
