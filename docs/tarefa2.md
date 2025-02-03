@@ -34,12 +34,18 @@ Siga estas etapas simples para encontrar sua primeira issue:
 Importante: Quando você deu uma estrela no repositório, isso criou automaticamente uma issue para você. Essa é uma forma didática de ajudar novos colaboradores a encontrar uma tarefa prática e se familiarizar com o processo. Normalmente, você encontrará outras tarefas disponíveis que também precisarão de ajuda.
 
 ## 3. Volte para o Branch Main 🎋
+1. **Abra o terminal** no seu computador.
+2. **Navegue até a pasta do seu projeto GitCaos**. Use o comando `cd caminho/do/seu/projeto` para acessar a pasta correta.
+3. **Execute o comando abaixo**
 
 ```sh
 git checkout main
 ```
 
 ## 4. Atualize o Branch Main 🎋
+1. **Abra o terminal** no seu computador.
+2. **Navegue até a pasta do seu projeto GitCaos**. Use o comando `cd caminho/do/seu/projeto` para acessar a pasta correta.
+3. **Execute o comando abaixo**
 
 ```sh
 git pull
@@ -118,7 +124,7 @@ Depois de fazer as alterações, você precisa adicioná-las ao seu branch. Isso
 1. **Adicione suas alterações** usando o comando:
 
    ```bash
-   git add .
+   git add caos/O_JOGO_DO_TIGRINHO_ME_DEU.md
    ```
 
 1. **Verifique novamente o estado do repositório** com:
