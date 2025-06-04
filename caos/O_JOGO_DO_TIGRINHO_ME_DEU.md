@@ -10,3 +10,4 @@
 - O jogo do Tigrinho me deu altas aventuras
 - O jogo do Tigrinho me deu um feliz Natal
 - O jogo do tigrinho me deu ansiedade
+- O jogo do tigrinhi me deu um dívida!
