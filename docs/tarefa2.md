@@ -175,6 +175,8 @@ Depois de realizar o **commit** das suas alterações, é hora de enviá-las par
 
 Após fazer o commit, você precisa criar um Pull Request (PR) para que suas alterações possam ser revisadas e eventualmente mescladas à branch principal. **Lembre-se de que você deve fazer isso no seu fork do repositório GitCaos.**
 
+**Nota importante:** Cada tarefa deve ser enviada em um Pull Request (PR) separado para facilitar a revisão. Por favor, crie um PR específico para essa tarefa.
+
 1. **Acesse o GitHub** e vá até o seu repositório forkado do GitCaos.
 1. **Localize o branch que você acabou de criar**. Você verá uma opção para criar um Pull Request.
 1. **Clique em "Compare & pull request"**.
