@@ -19,7 +19,7 @@ Antes de colocar a mão na massa e fazer suas primeiras contribuições, é impo
 
 Versionamento de código é um sistema que permite que desenvolvedores rastreiem e gerenciem as mudanças feitas no código ao longo do tempo. Ele garante que várias pessoas possam trabalhar no mesmo projeto sem sobrescrever o trabalho umas das outras. É um pilar essencial da colaboração em projetos open source.
 
-Para entender melhor o que é versionamento de código e como ele funciona, leia este artigo:
+Para entender melhor o que é versionamento de código e como ele funciona, leia a seção `2.1` do livro Git e GitHub para Humanos:
 
 - <https://git-e-github.para-humanos.cumbuca.dev/2.-fundamentos-de-controle-de-versao-e-git/2.1-introducao-a-sistemas-de-controle-de-versao>
 
