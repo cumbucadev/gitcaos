@@ -29,8 +29,9 @@ Git é um dos sistemas de controle de versão mais populares e amplamente usados
 
 Para aprender mais sobre o Git, sugerimos ler os capítulos `2`, `3` e `4` do do livro Git e GitHub para Humanos:
 
-- <https://git-e-github.para-humanos.cumbuca.dev/2.-fundamentos-de-controle-de-versao-e-git/2.2-introducao-ao-git>
-- <https://git-e-github.para-humanos.cumbuca.dev/2.-fundamentos-de-controle-de-versao-e-git/2.5-interagindo-com-o-git>
+- <https://git-e-github.para-humanos.cumbuca.dev/2.-fundamentos-de-controle-de-versao-e-git/
+- <https://git-e-github.para-humanos.cumbuca.dev/3.-operacoes-locais-basicas-no-git/>
+- <https://git-e-github.para-humanos.cumbuca.dev/4.-ajuste-de-mudancas-locais-no-git/>
 
 ### O que é GitHub? 🌐
 
