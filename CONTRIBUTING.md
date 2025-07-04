@@ -37,7 +37,7 @@ Para aprender mais sobre o Git, sugerimos ler os capítulos `2`, `3` e `4` do do
 
 O GitHub é uma plataforma baseada em Git, projetada para facilitar a hospedagem e o gerenciamento de repositórios de código. Além de permitir que os desenvolvedores compartilhem seu código publicamente ou de forma privada, o GitHub oferece uma série de ferramentas que ajudam a colaborar, como o controle de issues, pull requests, e automações que tornam o fluxo de trabalho mais eficiente.
 
-- <https://git-e-github.para-humanos.cumbuca.dev/1.-antes-de-comecar/1.4-sobre-o-github>
+- <https://git-e-github.para-humanos.cumbuca.dev/5.-introducao-ao-github>
 
 GitHub é onde você vai criar seu fork do projeto e enviar suas contribuições para serem revisadas e incorporadas. Tudo isso faz parte do fluxo de trabalho colaborativo.
 
