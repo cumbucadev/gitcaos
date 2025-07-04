@@ -27,7 +27,7 @@ Para entender melhor o que é versionamento de código e como ele funciona, leia
 
 Git é um dos sistemas de controle de versão mais populares e amplamente usados no desenvolvimento de software. Ele ajuda a gerenciar as mudanças no código de maneira eficiente, além de permitir que equipes inteiras colaborem em projetos de forma organizada. Com o Git, você pode criar ramificações (branches) para trabalhar em novas funcionalidades, registrar o histórico de mudanças, e facilmente fundir (merge) seu trabalho ao projeto principal.
 
-Para aprender mais sobre o Git, sugerimos ler o seguinte artigo:
+Para aprender mais sobre o Git, sugerimos ler os capítulos `2`, `3` e `4` do do livro Git e GitHub para Humanos:
 
 - <https://git-e-github.para-humanos.cumbuca.dev/2.-fundamentos-de-controle-de-versao-e-git/2.2-introducao-ao-git>
 - <https://git-e-github.para-humanos.cumbuca.dev/2.-fundamentos-de-controle-de-versao-e-git/2.5-interagindo-com-o-git>
