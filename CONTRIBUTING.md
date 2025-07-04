@@ -19,24 +19,25 @@ Antes de colocar a mão na massa e fazer suas primeiras contribuições, é impo
 
 Versionamento de código é um sistema que permite que desenvolvedores rastreiem e gerenciem as mudanças feitas no código ao longo do tempo. Ele garante que várias pessoas possam trabalhar no mesmo projeto sem sobrescrever o trabalho umas das outras. É um pilar essencial da colaboração em projetos open source.
 
-Para entender melhor o que é versionamento de código e como ele funciona, leia este artigo:
+Para entender melhor o que é versionamento de código e como ele funciona, leia a seção `2.1` do livro Git e GitHub para Humanos:
 
-- <https://github-essentials.cumbuca.dev/dia-2-controle-de-versao-basico-com-git/sistemas-de-controle-de-versao-vcs>
+- <https://git-e-github.para-humanos.cumbuca.dev/2.-fundamentos-de-controle-de-versao-e-git/2.1-introducao-a-sistemas-de-controle-de-versao>
 
 ### O que é Git? 🧑‍💻
 
 Git é um dos sistemas de controle de versão mais populares e amplamente usados no desenvolvimento de software. Ele ajuda a gerenciar as mudanças no código de maneira eficiente, além de permitir que equipes inteiras colaborem em projetos de forma organizada. Com o Git, você pode criar ramificações (branches) para trabalhar em novas funcionalidades, registrar o histórico de mudanças, e facilmente fundir (merge) seu trabalho ao projeto principal.
 
-Para aprender mais sobre o Git, sugerimos ler o seguinte artigo:
+Para aprender mais sobre o Git, sugerimos ler os capítulos `2`, `3` e `4` do do livro Git e GitHub para Humanos:
 
-- <https://github-essentials.cumbuca.dev/dia-2-controle-de-versao-basico-com-git/git>
-- <https://github-essentials.cumbuca.dev/dia-3-avancando-no-git>
+- <https://git-e-github.para-humanos.cumbuca.dev/2.-fundamentos-de-controle-de-versao-e-git/
+- <https://git-e-github.para-humanos.cumbuca.dev/3.-operacoes-locais-basicas-no-git/>
+- <https://git-e-github.para-humanos.cumbuca.dev/4.-ajuste-de-mudancas-locais-no-git/>
 
 ### O que é GitHub? 🌐
 
 O GitHub é uma plataforma baseada em Git, projetada para facilitar a hospedagem e o gerenciamento de repositórios de código. Além de permitir que os desenvolvedores compartilhem seu código publicamente ou de forma privada, o GitHub oferece uma série de ferramentas que ajudam a colaborar, como o controle de issues, pull requests, e automações que tornam o fluxo de trabalho mais eficiente.
 
-- <https://github-essentials.cumbuca.dev/dia-4-prazer-github/>
+- <https://git-e-github.para-humanos.cumbuca.dev/5.-introducao-ao-github>
 
 GitHub é onde você vai criar seu fork do projeto e enviar suas contribuições para serem revisadas e incorporadas. Tudo isso faz parte do fluxo de trabalho colaborativo.
 

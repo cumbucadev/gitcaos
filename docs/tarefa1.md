@@ -32,13 +32,13 @@ Agora é a hora de começarmos a contribiuir!
 
 Se você ainda não tem uma conta no GitHub, o primeiro passo é criar uma. O GitHub é a plataforma que usamos para gerenciar nosso repositório e facilita a colaboração entre desenvolvedores. Siga o passo a passo para a criação da conta:
 
-- <https://github-essentials.cumbuca.dev/dia-5-contas-e-planos/criacao-de-uma-conta-pessoal-no-github>
+- <https://git-e-github.para-humanos.cumbuca.dev/5.-introducao-ao-github/5.7-criando-uma-conta-pessoal-no-github>
 
 ## 2. Instale o Git 💻
 
 Para poder colaborar com o código do projeto, você vai precisar do Git, um sistema de controle de versão que nos ajuda a gerenciar o histórico de mudanças no código. Se você ainda não tm o Git instalado, siga esses passos:
 
-- <https://github-essentials.cumbuca.dev/dia-2-controle-de-versao-basico-com-git/git/instalando-o-git>
+- <https://git-e-github.para-humanos.cumbuca.dev/2.-fundamentos-de-controle-de-versao-e-git/2.4-instalando-o-git>
 
 ## 3. Faça um Fork do Projeto 🍴
 
