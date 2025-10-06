@@ -57,7 +57,7 @@ jobs:
           fi
 
       - name: Criando uma issue de boas-vindas
-        uses: peter-evans/create-issue-from-file@v5
+        uses: peter-evans/create-issue-from-file@v6
         with:
           title: "Tarefa 1: Criar arquivo: `${{ env.USERNAME }}.txt`"
           content-filepath: ../gitcaos/.github/workflows/issue_temp.md
