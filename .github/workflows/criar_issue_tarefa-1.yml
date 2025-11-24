@@ -18,7 +18,7 @@ jobs:
 
     steps:
       - name: Checkout do repositório
-        uses: actions/checkout@v5
+        uses: actions/checkout@v6
       - name: Set up GitHub user
         id: get_user
         run: |
