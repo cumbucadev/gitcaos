@@ -58,7 +58,7 @@ jobs:
           fi
 
       - name: Criando uma issue de boas-vindas
-        uses: peter-evans/create-issue-from-file@v5
+        uses: peter-evans/create-issue-from-file@v6
         with:
           title: "Tarefa 2: O Jogo do Tigrinho me deu (${{ env.USERNAME }})"
           content-filepath: ../gitcaos/.github/workflows/issue_temp.md
