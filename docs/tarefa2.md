@@ -199,3 +199,4 @@ Pronto! Agora sua contribuição será revisada por outros colaboradores do proj
 Ações:
 
 - [< Voltar para Tarefa 1](/docs/tarefa1.md)
+- [> Ir para a tarefa 3](/docs/tarefa3.md)
