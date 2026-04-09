@@ -12,3 +12,4 @@
 - O jogo do tigrinho me deu ansiedade
 - O jogo do tigrinhi me deu um dívida!
 - O jogo do tigrinho me deu ranço.
+- O jogo do tigrinho me deu espasmos musculares!
