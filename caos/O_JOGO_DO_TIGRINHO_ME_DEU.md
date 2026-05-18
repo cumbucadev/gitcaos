@@ -14,4 +14,4 @@
 - O jogo do tigrinho me deu ranço.
 - O jogo do tigrinho me deu espasmos musculares!
 - O jogo do Tigrinho me deu altas dívidas no cartão de crédito.
-- O jogo do Tigrinho me deu vontade de ir para o Japão pelo Havaí.
+- O jogo do Tigrinho me deu vontade de ir para o Japão pelo Havaí!!!
