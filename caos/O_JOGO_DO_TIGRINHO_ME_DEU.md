@@ -16,3 +16,4 @@
 - O jogo do Tigrinho me deu altas dívidas no cartão de crédito.
 - O jogo do Tigrinho me deu vontade de ir para o Japão saindo do Havaí!!!!
 - O jogo do tigrinho me deu vontade de me inscrever em uma maronatona de corrida.
+- O jogo do Tigrinho me deu vontade de mexer na cumbucadev
